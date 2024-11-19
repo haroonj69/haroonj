@@ -1,4 +1,3 @@
-@import "{{ midnight }}";
 # Unblocked Games made by Haroon Jalali
 ## Hello!
 ### h2 heading
